@@ -1,0 +1,17 @@
+{
+  "name": "ja-easy-pipeline",
+  "version": "1.0.0",
+  "description": "A demostration of setting up an easy JS workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pretty": "prettier \"**/*.js\" --write",
+    "pretty-check": "prettier \"**/*.js\" --list-different"
+  },
+  "author": "Sammy Israwi <sammy.israwi@gmail.com> (http://sammyis.me/)",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "1.3.1",
+    "prettier": "1.16.4"
+  }
+}
