@@ -11,7 +11,7 @@
   "author": "Sammy Israwi <sammy.israwi@gmail.com> (http://sammyis.me/)",
   "license": "MIT",
   "devDependencies": {
-    "husky": "1.3.1",
-    "prettier": "1.16.4"
+    "husky": "^1.3.1",
+    "prettier": "^1.16.4"
   }
 }
